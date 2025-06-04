@@ -36,7 +36,7 @@ Ao final, o programa exibe uma mensagem personalizada como: O Herói de nome **S
 
 1. Clone este repositório:
    ```bash
-   git clone [https://github.com/desafio/classificador-nivel-heroi.git](https://github.com/dyordan/desafio_classificador-nivel-heroi)
+   git clone (https://github.com/dyordan/desafio_classificador-nivel-heroi)
 
 2. cd classificador-nivel-heroi
 
